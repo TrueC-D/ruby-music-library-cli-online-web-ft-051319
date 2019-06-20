@@ -1,5 +1,4 @@
-
- require_relative './concerns/findable.rb'
+require_relative './concerns/findable.rb'
 
 
 require "pry"
